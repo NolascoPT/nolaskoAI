@@ -1,0 +1,2 @@
+# nolaskoAI
+Connection to CHATGPT
